@@ -1,0 +1,26 @@
+.App{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.frase{
+    background: #fff;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, .3);
+    border-radius: 20px;
+    display: inline-block;
+    padding: 30px;
+    text-align: center;
+}
+
+.random{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    border: none;
+}
+
+.random i{
+    font-size: 20px;
+}
